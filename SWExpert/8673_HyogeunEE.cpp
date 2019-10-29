@@ -38,4 +38,4 @@ int main() {
         printf("#%d %d\n", test_case, sum);
 	}
 	return 0;
-}
+} 
